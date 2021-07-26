@@ -1,0 +1,16 @@
+Magic Method
+
+1.__autoload()
+2.__construct()
+3.__destruct()
+4.__call()
+5.__callsttaic()
+6.__get()
+7.__set()
+8.__isset()
+9.__unset()
+10.__sleep()
+11.__wakeup()
+12.__toString()
+13.__invoke()
+14.__clone()
